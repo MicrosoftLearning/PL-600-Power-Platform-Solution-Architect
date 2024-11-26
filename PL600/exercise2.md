@@ -1,8 +1,9 @@
-# Microsoft Tools to Address Requirements
+# Tools to Address Requirements
 
 ## 1. Routing Help Requests
 - **Power Automate**: Create workflows to automate routing based on SLA, incident type, and priority.  
 - **Dataverse**: Store and organize customer details and incident records for efficient routing.
+- **BMC - Remedy Tool**: Allow users to log incidents/request via the remedy platform which automatically generates a ticket and email alerts for the support staffs to deal.
 
 ## 2. Support Staff Task Selection
 - **Model-Driven Apps (Power Apps)**: Develop a dashboard to show open tasks and allow staff to pick based on qualification.  
@@ -23,6 +24,7 @@
 
 ## 6. Incident Prioritization
 - **AI Builder (Power Platform)**: Use machine learning models to prioritize incidents automatically based on predefined rules.
+- **BMC Remedy Tool**: Use this platform to prioritize incidents based on some SLAs and policies from business.
 
 ## 7. Field Technician Scheduling
 - **Dynamics 365 Field Service**: Manage technician schedules, optimize routing, and dispatch efficiently.
