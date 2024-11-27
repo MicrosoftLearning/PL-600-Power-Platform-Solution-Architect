@@ -3,7 +3,7 @@
 ## 1. Routing Help Requests
 - **Power Automate**: Create workflows to automate routing based on SLA, incident type, and priority.  
 - **Dataverse**: Store and organize customer details and incident records for efficient routing.
-- **BMC - Remedy Tool**: Allow users to log incidents/request via the remedy platform which automatically generates a ticket and email alerts for the support staffs to deal.
+- **BMC - Remedy Tool (not MS Tool)**: Allow users to log incidents/request via the remedy platform which automatically generates a ticket and email alerts for the support staffs to deal.
 
 ## 2. Support Staff Task Selection
 - **Model-Driven Apps (Power Apps)**: Develop a dashboard to show open tasks and allow staff to pick based on qualification.  
