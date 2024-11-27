@@ -36,7 +36,7 @@
 - **Model-Driven Apps**:
   - For managing building access and scheduling inspections.
   - For security managers to view visitor volumes and employee visit booking data.
-- **Portals**:
+- **Portals (Power Pages)**:
   - For visitors to access visit details and enter parking information.
 - **Power Automate**:
   - Automate parking availability checks and updates.
@@ -60,5 +60,3 @@
 - Implement **Azure AD B2C** for visitor authentication and role-based access.
 - Use **Dataverse capacity planning** to manage data storage and optimize performance.
 - Enable **incremental deployment** using solution layers for scaling as new functionalities are added.
-
-For more details on this exercise, refer to the [GitHub exercise](https://github.com/Eli-Hub/PL-600-Microsoft-Power-Platform-Solution-Architect/blob/PL-Exercise/Instructions/Exercises/Exercise05%5BPL-600%5D_Power_Apps_architecture.md)&#8203;:contentReference[oaicite:0]{index=0}&#8203;:contentReference[oaicite:1]{index=1}&#8203;:contentReference[oaicite:2]{index=2}.
