@@ -1,4 +1,4 @@
-# Tasks and Solutions
+# Power Apps Architecture
 
 ## Task 1: Identify where Power Apps Component Framework (PCF) might be helpful.
 
